@@ -1,23 +1,3 @@
 {
- "5.2.0.111": "https://github.com/AppsFlyerSDK/appsflyer-apple-sdk-qa/releases/download/5.2.0.111/appsflyer-ios.framework.zip",
- "5.3.0.117": "https://github.com/AppsFlyerSDK/appsflyer-apple-sdk-qa/releases/download/5.3.0.117/appsflyer-ios.framework.zip",
- "5.3.0.118": "https://github.com/AppsFlyerSDK/appsflyer-apple-sdk-qa/releases/download/5.3.0.118/appsflyer-ios.framework.zip",
- "5.3.0.119": "https://github.com/AppsFlyerSDK/appsflyer-apple-sdk-qa/releases/download/5.3.0.119/appsflyer-ios.framework.zip",
- "5.3.0.120": "https://github.com/AppsFlyerSDK/appsflyer-apple-sdk-qa/releases/download/5.3.0.120/appsflyer-ios.framework.zip",
- "5.3.0.121": "https://github.com/AppsFlyerSDK/appsflyer-apple-sdk-qa/releases/download/5.3.0.121/appsflyer-ios.framework.zip",
- "5.3.0.126": "https://github.com/AppsFlyerSDK/appsflyer-apple-sdk-qa/releases/download/5.3.0.126/appsflyer-ios.framework.zip",
- "5.3.0.127": "https://github.com/AppsFlyerSDK/appsflyer-apple-sdk-qa/releases/download/5.3.0.127/appsflyer-ios.framework.zip",
- "5.4.0.131": "https://github.com/AppsFlyerSDK/appsflyer-apple-sdk-qa/releases/download/5.4.0.131/appsflyer-ios.framework.zip",
- "5.4.0.132": "https://github.com/AppsFlyerSDK/appsflyer-apple-sdk-qa/releases/download/5.4.0.132/appsflyer-ios.framework.zip",
- "5.4.1.134": "https://github.com/AppsFlyerSDK/appsflyer-apple-sdk-qa/releases/download/5.4.1.134/appsflyer-ios.framework.zip",
- "5.4.1.136": "https://github.com/AppsFlyerSDK/appsflyer-apple-sdk-qa/releases/download/5.4.1.136/appsflyer-ios.framework.zip",
- "5.4.1.137": "https://github.com/AppsFlyerSDK/appsflyer-apple-sdk-qa/releases/download/5.4.1.137/appsflyer-ios.framework.zip",
- "5.4.2.147": "https://github.com/AppsFlyerSDK/appsflyer-apple-sdk-qa/releases/download/5.4.2.147/appsflyer-ios.framework.zip",
- "5.4.2.150": "https://github.com/AppsFlyerSDK/appsflyer-apple-sdk-qa/releases/download/5.4.2.150/appsflyer-ios.framework.zip",
- "5.4.2.151": "https://github.com/AppsFlyerSDK/appsflyer-apple-sdk-qa/releases/download/5.4.2.151/appsflyer-ios.framework.zip",
- "5.4.3.152": "https://github.com/AppsFlyerSDK/appsflyer-apple-sdk-qa/releases/download/5.4.3.152/appsflyer-ios.framework.zip",
- "5.4.3.153": "https://github.com/AppsFlyerSDK/appsflyer-apple-sdk-qa/releases/download/5.4.3.153/appsflyer-ios.framework.zip",
- "5.4.3.154": "https://github.com/AppsFlyerSDK/appsflyer-apple-sdk-qa/releases/download/5.4.3.154/appsflyer-ios.framework.zip",
- "6.0.0.158": "https://github.com/AppsFlyerSDK/appsflyer-apple-sdk-qa/releases/download/6.0.0.158/appsflyer-ios.framework.zip",
- "6.0.0.159": "https://github.com/AppsFlyerSDK/appsflyer-apple-sdk-qa/releases/download/6.0.0.159/appsflyer-ios.framework.zip"
+ "6.0.0.159": "https://github.com/AppsFlyerSDK/Beta-AppsFlyerFramework/releases/download/6.0.0.159/appsflyer-ios.framework.zip"
 }
